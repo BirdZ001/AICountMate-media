@@ -1,0 +1,15 @@
+{
+  "status": "generic-placeholder-not-demonstration",
+  "creator": "BirdZ001 / AICountMate",
+  "generator": "OpenAI built-in imagegen",
+  "referenceImages": [
+    "Original AICountMate AI-generated squat style sample; no third-party reference"
+  ],
+  "license": "CC0-1.0 to the extent applicable rights are held",
+  "sha256": "d6607cb5be6f4326293849caaaeae98832fb15c916857373fef75bcc9d16f4b7",
+  "prompt": "Use the original AICountMate style sample as the exact character reference: friendly face, short dark hair, warm natural skin, sage green sports T-shirt, charcoal shorts, light gray sneakers, charcoal outlines and restrained cel shading. Stand neutrally upright with arms relaxed, full body, front three-quarter view. Transparent background, no floor, no equipment or text. Generic exercise-library placeholder, not a particular exercise demonstration.",
+  "userChoices": [
+    "Clean illustrated character replaces earlier faceless preference",
+    "Consistent cartoon placeholder with original demonstration separately accessible"
+  ]
+}
